@@ -1,1 +1,1 @@
-# numeron-game-2
+# numeron2
